@@ -28,9 +28,6 @@ Building modern, responsive & user-friendly web experiences
 <a href="https://linkedin.com/in/tasnime aridhi" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://fb.com/tasnim arridhi" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-</a>
 <a href="https://instagram.com/tetatasnime" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
